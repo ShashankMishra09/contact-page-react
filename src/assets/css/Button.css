@@ -1,0 +1,15 @@
+.btn1{
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 10px 20px;
+}
+
+.btn2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 10px 20px;
+}
